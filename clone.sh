@@ -35,7 +35,7 @@ REPOS=(
 
     # Additional repos (unchanged)
     "https://github.com/tiraq-official/android_hardware_motorola|17.0|hardware/motorola"
-    "https://github.com/tiraq-official/hardware_dolby_motorola|main|hardware_dolby_motorola"
+    "https://github.com/tiraq-official/hardware_dolby_motorola|main|hardware/dolby"
     "https://github.com/tiraq-official/android_hardware_samsung_slsi_nfc.git||hardware/samsung_slsi/nfc"
     "https://github.com/tiraq-official/vendor_motorola_motocam.git|fogos|vendor/motorola/motocamera"
     "https://github.com/tiraq-official/android_packages_apps_FogosParts.git|main|packages/apps/FogosParts"
