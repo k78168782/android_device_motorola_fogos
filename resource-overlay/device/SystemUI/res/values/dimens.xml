@@ -32,4 +32,9 @@
     <!-- Location on the screen of the center of the physical power button. This is a reasonable
     default that should be overridden by device-specific overlays. -->
     <dimen name="physical_power_button_center_screen_location_y">665px</dimen>
+
+    <!-- Maximum blur radius behind notification shade.
+         Optimized for Adreno 619 to maintain deep frosted glass blur while reducing shader workload -->
+    <dimen name="max_shade_window_blur_radius">32dp</dimen>
+    <dimen name="max_window_blur_radius">20px</dimen>
 </resources>

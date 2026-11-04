@@ -25,4 +25,8 @@
 
     <!--  Flag to turn on the rendering of the above path or not  -->
     <bool name="config_enableDisplayCutoutProtection">true</bool>
+
+    <!-- Whether to clip notification contents with a rounded rectangle.
+         Disabled to eliminate notification scroll/expand lag and CPU/GPU overhead on Adreno 619 -->
+    <bool name="config_notifications_round_rect_clipping">false</bool>
 </resources>
