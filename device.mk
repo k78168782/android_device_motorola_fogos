@@ -34,7 +34,8 @@ PRODUCT_PACKAGES += \
     SystemUIResDevice \
     WifiResDevice \
     WifiResDeviceXT2363-8 \
-    WifiResDeviceXT2363-9
+    WifiResDeviceXT2363-9 \
+    CarrierConfigResDevice
 
 # Audio
 PRODUCT_COPY_FILES += \
