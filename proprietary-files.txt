@@ -198,8 +198,6 @@ vendor/lib64/camera/com.qti.flash.aw36514.so
 vendor/lib64/camera/com.qti.flash.ocp81375.so
 
 # Camera - Motorola
-vendor/bin/hw/motorola.hardware.camera.desktop@2.0-service
-vendor/etc/init/motorola.hardware.camera.desktop@2.0-service.rc
 vendor/lib64/motorola.hardware.camera.desktop@1.0.so
 vendor/lib64/motorola.hardware.camera.desktop@2.0.so
 
